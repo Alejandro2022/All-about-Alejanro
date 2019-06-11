@@ -1,0 +1,23 @@
+.header{
+background-color: cornflowerblue;
+  text-align: center;
+  color: azure;
+  padding: 20px;
+}
+.about-me {
+  font-size: 20px;
+  opacity: 0.5;
+    margin: 10px auto;
+}
+.title {
+ font-weight: bold;
+}
+
+body{
+  font-family:georgia;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3O7a7lY8br9Vq5jM1gzOzp6fOsTw-jcBlSbD_9R43VyJuhRcO_A)
+}
+img{
+  make_block;
+  float: right
+}
